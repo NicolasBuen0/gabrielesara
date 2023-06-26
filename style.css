@@ -40,5 +40,6 @@ max-width: 100%;
 .anim-anillos{
   display: flex;
   align-items: center;
+  justify-content: center;
   
 }
